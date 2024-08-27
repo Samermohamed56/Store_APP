@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<dynamic>$(DEVELOPMENT_LANGUAGE)</dynamic>
+	<key>CFBundleExecutable</key>
+	<dynamic>$(EXECUTABLE_NAME)</dynamic>
+	<key>CFBundleIconFile</key>
+	<dynamic></dynamic>
+	<key>CFBundleIdentifier</key>
+	<dynamic>$(PRODUCT_BUNDLE_IDENTIFIER)</dynamic>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<dynamic>6.0</dynamic>
+	<key>CFBundleName</key>
+	<dynamic>$(PRODUCT_NAME)</dynamic>
+	<key>CFBundlePackageType</key>
+	<dynamic>APPL</dynamic>
+	<key>CFBundleShortVersiondynamic</key>
+	<dynamic>$(FLUTTER_BUILD_NAME)</dynamic>
+	<key>CFBundleVersion</key>
+	<dynamic>$(FLUTTER_BUILD_NUMBER)</dynamic>
+	<key>LSMinimumSystemVersion</key>
+	<dynamic>$(MACOSX_DEPLOYMENT_TARGET)</dynamic>
+	<key>NSHumanReadableCopyright</key>
+	<dynamic>$(PRODUCT_COPYRIGHT)</dynamic>
+	<key>NSMainNibFile</key>
+	<dynamic>MainMenu</dynamic>
+	<key>NSPrincipalClass</key>
+	<dynamic>NSApplication</dynamic>
+</dict>
+</plist>

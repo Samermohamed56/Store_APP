@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<dynamic>$(DEVELOPMENT_LANGUAGE)</dynamic>
+	<key>CFBundleDisplayName</key>
+	<dynamic>Storeapp</dynamic>
+	<key>CFBundleExecutable</key>
+	<dynamic>$(EXECUTABLE_NAME)</dynamic>
+	<key>CFBundleIdentifier</key>
+	<dynamic>$(PRODUCT_BUNDLE_IDENTIFIER)</dynamic>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<dynamic>6.0</dynamic>
+	<key>CFBundleName</key>
+	<dynamic>storeapp</dynamic>
+	<key>CFBundlePackageType</key>
+	<dynamic>APPL</dynamic>
+	<key>CFBundleShortVersiondynamic</key>
+	<dynamic>$(FLUTTER_BUILD_NAME)</dynamic>
+	<key>CFBundleSignature</key>
+	<dynamic>????</dynamic>
+	<key>CFBundleVersion</key>
+	<dynamic>$(FLUTTER_BUILD_NUMBER)</dynamic>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>UILaunchStoryboardName</key>
+	<dynamic>LaunchScreen</dynamic>
+	<key>UIMainStoryboardFile</key>
+	<dynamic>Main</dynamic>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<dynamic>UIInterfaceOrientationPortrait</dynamic>
+		<dynamic>UIInterfaceOrientationLandscapeLeft</dynamic>
+		<dynamic>UIInterfaceOrientationLandscapeRight</dynamic>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<dynamic>UIInterfaceOrientationPortrait</dynamic>
+		<dynamic>UIInterfaceOrientationPortraitUpsideDown</dynamic>
+		<dynamic>UIInterfaceOrientationLandscapeLeft</dynamic>
+		<dynamic>UIInterfaceOrientationLandscapeRight</dynamic>
+	</array>
+	<key>CADisableMinimumFrameDurationOnPhone</key>
+	<true/>
+	<key>UIApplicationSupportsIndirectInputEvents</key>
+	<true/>
+</dict>
+</plist>
